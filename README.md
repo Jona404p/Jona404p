@@ -100,7 +100,7 @@ A platform that analyzes both the final content of a document and the process be
 
 `JavaScript` `React` `Supabase` `AI Integration`
 
-[🔗 Live demo](https://vouch-swart.vercel.app/) · [📂 Repository](https://github.com/Jona404p/VOUCHI_INFO/)
+[🔗 Live demo](https://vouch-swart.vercel.app/) · [📂 Repository](https://github.com/Jona404p/VOUCH_INFO)
 
 ---
 
@@ -205,8 +205,9 @@ I'm open to connecting with developers, collaborating on projects, and finding o
 
 <p align="left">
   <a href="https://github.com/Jona404p"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:TU_CORREO@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jonathan-paniagua-63a05b39a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/jona17zzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:Jona404pv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
