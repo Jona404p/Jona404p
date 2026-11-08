@@ -88,7 +88,7 @@ A document-oriented platform designed to analyze both the final content and the 
 
 `JavaScript` `React` `Supabase` `AI Integration`
 
-[View Repository →](https://github.com/Jona404p/VOUCH)
+[View Repository →]([https://github.com/Jona404p/VOUCH](https://vouch-swart.vercel.app/dashboard))
 
 ---
 
