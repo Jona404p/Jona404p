@@ -92,7 +92,7 @@ A document-oriented platform designed to analyze both the final content and the 
 
 ---
 
-### ParlAI
+### AiPredict
 **AI-Powered Football Prediction System**
 
 An experimental application for football match analysis and prediction, combining structured sports information with locally deployed language models.
@@ -106,7 +106,7 @@ An experimental application for football match analysis and prediction, combinin
 
 `Python` `Docker` `Ollama`
 
-[Repository — Add URL](#)
+[Repository — Add URL](https://github.com/Jona404p/AiPredict/)
 
 ---
 
