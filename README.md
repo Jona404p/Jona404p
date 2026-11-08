@@ -1,109 +1,130 @@
-# Jonathan Paniagua
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2563EB&height=210&section=header&text=Jonathan%20Paniagua&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Systems%20Engineering&descAlignY=60&descSize=15)
 
-**Computer Science Engineering Student · Software Developer**
+<h3 align="center">Building software. Exploring technology. Solving problems.</h3>
 
-Durango, México
-
-I am a Computer Science Engineering student interested in software engineering, artificial intelligence, Linux systems, and cybersecurity.
-
-I focus on designing and developing software solutions, exploring system architectures, and integrating technologies to solve practical problems. My work includes independent projects involving application development, local AI models, document analysis, and Linux environments.
-
-[GitHub](https://github.com/Jona404p) · [LinkedIn](#) · [Email](mailto:your-email@example.com)
+<p align="center">
+  <a href="https://github.com/Jona404p">
+    <img src="https://img.shields.io/badge/GitHub-Jona404p-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Mexico-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge" />
+</p>
 
 ---
 
-## About
+## 01. About Me
 
-- Currently pursuing a degree in **Computer Systems Engineering**.
-- Interested in software architecture, backend development, and intelligent systems.
-- Working with Linux-based development environments.
-- Exploring local language models and AI application integration.
-- Learning cybersecurity through practical exercises and technical research.
-- Building independent software projects focused on real-world applications.
+I'm **Jonathan Paniagua**, a Computer Systems Engineering student with a strong interest in full stack development, software architecture, artificial intelligence, and Linux systems.
 
-## Technical Skills
+I enjoy building software from the ground up, understanding how systems work internally, and connecting different technologies to create practical solutions.
 
-### Programming Languages
+My experience comes from independent and academic projects involving web applications, backend services, database integration, local AI models, and system-level development.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,rust,python,js,ts" alt="Programming languages" />
-</p>
+**Areas of interest**
+- Full Stack Web Development
+- Backend Engineering & API Design
+- Database Architecture
+- Artificial Intelligence & LLM Integration
+- Linux Systems & Automation
+- Software Architecture
 
-### Frameworks & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,docker,git,github" alt="Development tools" />
-</p>
-
-### Infrastructure & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,bash,supabase,vercel" alt="Infrastructure tools" />
-</p>
-
-### Artificial Intelligence
-
-- Ollama and local LLM deployment.
-- Retrieval-Augmented Generation (RAG).
-- Integration of language models into software applications.
-- AI-assisted analysis and information processing.
-
-*Note: Technologies listed above should be adjusted to reflect actual experience and proficiency.*
+Currently pursuing a degree in Computer Systems Engineering at **Instituto Tecnológico de Durango, Mexico**.
 
 ---
 
-## Selected Projects
+## 02. Technology Stack
+
+Technologies and tools I have worked with or explored through my projects.
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,rust,cpp" />
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,docker,linux,bash" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+### AI & Data
+
+- Ollama — Local language model deployment.
+- RAG — Retrieval-Augmented Generation.
+- CCXT — Cryptocurrency exchange integration.
+- Binance API — Market data integration.
+
+---
+
+## 03. Featured Projects
+
+A selection of independent software projects focused on application development, system architecture, and technology experimentation.
 
 ### VOUCH
-**Document Analysis & Writing Process Analytics**
+**Document Intelligence & Writing Analytics**
 
-A document-oriented platform designed to analyze not only the final content but also the process behind its creation.
+A document-oriented platform designed to analyze both the final content and the process behind its creation.
 
-**Development areas:**
-- Document editing and formatting.
+**Key development areas**
+- Rich-text document editor.
 - Writing activity tracking and event recording.
 - Document versioning and reconstruction.
 - Evidence-based writing analytics.
-- AI-assisted document evaluation.
+- AI-assisted document analysis.
 - Teacher-oriented assessment workflows.
 
-**Repository:** [Jona404p/VOUCH](https://github.com/Jona404p/VOUCH)
+`JavaScript` `React` `Supabase` `AI Integration`
+
+[View Repository →](https://github.com/Jona404p/VOUCH)
 
 ---
 
 ### ParlAI
 **AI-Powered Football Prediction System**
 
-An experimental application focused on football match analysis and prediction using locally deployed language models and structured sports information.
+An experimental application for football match analysis and prediction, combining structured sports information with locally deployed language models.
 
-**Development areas:**
+**Key development areas**
 - Match outcome analysis (1X2).
-- Goal-related market analysis.
-- Local LLM integration through Ollama.
+- Goal and market analysis.
+- Local LLM integration.
 - Sports data processing.
 - Prediction interface and application architecture.
 
-**Technologies:** Python, Docker, Ollama.
+`Python` `Docker` `Ollama`
 
-**Repository:** [Add repository URL]
+[Repository — Add URL](#)
 
 ---
 
 ### BTC Intelligence AI
 **Cryptocurrency Market Analysis**
 
-A local AI-assisted research and analysis system focused on Bitcoin market data, technical analysis, and quantitative trading concepts.
+A local AI-assisted research system focused on Bitcoin market analysis, technical indicators, and quantitative trading concepts.
 
-**Development areas:**
-- Technical indicators and price action.
+**Key development areas**
+- Technical analysis and price action.
 - Market data integration.
-- Retrieval-Augmented Generation using specialized knowledge sources.
+- Knowledge retrieval using RAG.
 - Trading risk analysis.
-- Market information processing.
+- Financial information processing.
 
-**Technologies:** Python, Ollama, CCXT, Binance API.
+`Python` `Ollama` `CCXT` `Binance API`
 
-**Repository:** [Add repository URL]
+[Repository — Add URL](#)
 
 ---
 
@@ -112,88 +133,107 @@ A local AI-assisted research and analysis system focused on Bitcoin market data,
 
 A system management project developed in Rust, designed to organize Linux environments through configurable execution profiles.
 
-**Development areas:**
-- Profile-based environment configuration.
+**Key development areas**
+- Profile-based environment management.
 - Personal, Development, Gaming, Standard, and Secure profiles.
-- TOML-based configuration.
+- TOML configuration.
 - System diagnostics.
 - Linux service integration.
 
-**Technologies:** Rust, Linux, TOML, systemd.
+`Rust` `Linux` `TOML` `systemd`
 
-**Repository:** [Add repository URL]
+[Repository — Add URL](#)
 
 ---
 
 ### TayOS
 **Custom Debian-Based Linux Distribution**
 
-An experimental Linux distribution built around Debian Live-Build, with a customized desktop environment and installation workflow.
+An experimental Linux distribution built with Debian Live-Build, featuring a customized desktop environment and installation workflow.
 
-**Development areas:**
+**Key development areas**
 - Custom ISO generation.
-- Boot configuration.
+- Bootloader configuration.
 - Desktop environment customization.
 - Calamares installer integration.
 - Package and system configuration.
 
-**Technologies:** Debian, Live-Build, Openbox, LightDM, Calamares.
+`Debian` `Linux` `Live-Build` `Openbox` `Calamares`
 
-**Repository:** [Jona404p/TayOs](https://github.com/Jona404p/TayOs)
+[View Repository →](https://github.com/Jona404p/TayOs)
 
 ---
 
 ### TayShop
-**E-commerce Application**
+**E-commerce Web Application**
 
-A web development project organized around independent frontend and backend components.
+A web development project structured around independent frontend and backend components.
 
-**Development areas:**
+**Key development areas**
 - Frontend and backend architecture.
 - E-commerce functionality.
 - API integration.
 - Application deployment.
 
-**Repositories:**
-- [Frontend](https://github.com/tayshop-jona/tayshop-frontend)
-- [Backend](https://github.com/tayshop-jona/tayshop-backend)
+[Frontend Repository →](https://github.com/tayshop-jona/tayshop-frontend)
+
+[Backend Repository →](https://github.com/tayshop-jona/tayshop-backend)
 
 ---
 
-## Education
+## 04. Education
 
-**B.Eng. in Computer Systems Engineering**
+**Instituto Tecnológico de Durango**
 
-Instituto Tecnológico de Durango  
-Durango, México
+B.Eng. in Computer Systems Engineering
+
+Durango, Mexico.
 
 Currently pursuing undergraduate studies.
 
 ---
 
-## Current Learning
+## 05. Continuous Learning
+
+Areas I am actively exploring and developing practical knowledge in:
 
 - Cybersecurity fundamentals.
-- Linux system administration.
-- Network security.
-- Application security.
-- Software architecture.
+- Linux administration and system security.
+- Network protocols and application security.
+- Software architecture and design patterns.
 - Artificial intelligence and local LLM systems.
 
-Practical training: [OverTheWire – Bandit](https://overthewire.org/wargames/bandit/)
+**Practical training:** [OverTheWire — Bandit](https://overthewire.org/wargames/bandit/)
 
 ---
 
-## Contact
+## 06. Beyond the Code
 
-**Jonathan Paniagua**
+I believe software development involves more than writing code. Understanding the problem, designing the architecture, evaluating trade-offs, and maintaining reliable systems are equally important.
 
-- GitHub: [@Jona404p](https://github.com/Jona404p)
-- LinkedIn: [Add LinkedIn profile]
-- Email: your-email@example.com
+I approach projects as opportunities to learn, experiment, and develop engineering skills through practical implementation.
+
+---
+
+## 07. Contact
+
+I'm interested in connecting with developers, collaborating on software projects, and exploring opportunities to grow professionally.
+
+<p align="left">
+  <a href="https://github.com/Jona404p">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <sub>Software Engineering · Artificial Intelligence · Linux Systems</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%" />
+  <sub>Jonathan Paniagua · Software Development & Engineering</sub>
 </p>
