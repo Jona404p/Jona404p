@@ -91,6 +91,20 @@ A document-oriented platform designed to analyze both the final content and the 
 [View Repository →]([https://github.com/Jona404p/VOUCH](https://vouch-swart.vercel.app/dashboard))
 
 ---
+### TayShop
+**E-commerce Web Application**
+
+A web development project structured around independent frontend and backend components.
+
+**Key development areas**
+- Frontend and backend architecture.
+- E-commerce functionality.
+- API integration.
+- Application deployment.
+
+[Web →](https://tayshop.mx)
+
+---
 
 ### AiPredict
 **AI-Powered Football Prediction System**
@@ -106,7 +120,7 @@ An experimental application for football match analysis and prediction, combinin
 
 `Python` `Docker` `Ollama`
 
-[Repository — Add URL](https://github.com/Jona404p/AiPredict/)
+[Repository](https://github.com/Jona404p/AiPredict/)
 
 ---
 
@@ -124,7 +138,7 @@ A local AI-assisted research system focused on Bitcoin market analysis, technica
 
 `Python` `Ollama` `CCXT` `Binance API`
 
-[Repository — Add URL](#)
+[Repository](https://github.com/Jona404p/btc-intelligence-ai/)
 
 ---
 
@@ -164,22 +178,6 @@ An experimental Linux distribution built with Debian Live-Build, featuring a cus
 
 ---
 
-### TayShop
-**E-commerce Web Application**
-
-A web development project structured around independent frontend and backend components.
-
-**Key development areas**
-- Frontend and backend architecture.
-- E-commerce functionality.
-- API integration.
-- Application deployment.
-
-[Frontend Repository →](https://github.com/tayshop-jona/tayshop-frontend)
-
-[Backend Repository →](https://github.com/tayshop-jona/tayshop-backend)
-
----
 
 ## 04. Education
 
