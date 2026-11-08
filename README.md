@@ -1,235 +1,199 @@
-# 👋 ¡Hola! Soy Jonathan Paniagua
+# Jonathan Paniagua
 
-### Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador de software | Entusiasta de la IA y la ciberseguridad
+**Computer Science Engineering Student · Software Developer**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Durango%2C%20México-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=flat-square" />
+Durango, México
+
+I am a Computer Science Engineering student interested in software engineering, artificial intelligence, Linux systems, and cybersecurity.
+
+I focus on designing and developing software solutions, exploring system architectures, and integrating technologies to solve practical problems. My work includes independent projects involving application development, local AI models, document analysis, and Linux environments.
+
+[GitHub](https://github.com/Jona404p) · [LinkedIn](#) · [Email](mailto:your-email@example.com)
+
+---
+
+## About
+
+- Currently pursuing a degree in **Computer Systems Engineering**.
+- Interested in software architecture, backend development, and intelligent systems.
+- Working with Linux-based development environments.
+- Exploring local language models and AI application integration.
+- Learning cybersecurity through practical exercises and technical research.
+- Building independent software projects focused on real-world applications.
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,python,js,ts" alt="Programming languages" />
 </p>
 
+### Frameworks & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,docker,git,github" alt="Development tools" />
+</p>
+
+### Infrastructure & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,supabase,vercel" alt="Infrastructure tools" />
+</p>
+
+### Artificial Intelligence
+
+- Ollama and local LLM deployment.
+- Retrieval-Augmented Generation (RAG).
+- Integration of language models into software applications.
+- AI-assisted analysis and information processing.
+
+*Note: Technologies listed above should be adjusted to reflect actual experience and proficiency.*
+
 ---
 
-## 🚀 Sobre mí
+## Selected Projects
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales**, interesado en el desarrollo de software, inteligencia artificial, automatización, sistemas operativos y ciberseguridad.
+### VOUCH
+**Document Analysis & Writing Process Analytics**
 
-Me gusta desarrollar proyectos desde cero, investigar nuevas tecnologías y construir soluciones que combinen funcionalidad, rendimiento y una buena experiencia de usuario.
+A document-oriented platform designed to analyze not only the final content but also the process behind its creation.
 
-Actualmente estoy enfocado en:
+**Development areas:**
+- Document editing and formatting.
+- Writing activity tracking and event recording.
+- Document versioning and reconstruction.
+- Evidence-based writing analytics.
+- AI-assisted document evaluation.
+- Teacher-oriented assessment workflows.
 
-- 💻 Desarrollo de aplicaciones y sistemas de software.
-- 🤖 Inteligencia artificial e integración de modelos locales.
-- 🐧 Administración y personalización de sistemas Linux.
-- 🔐 Aprendizaje de ciberseguridad y seguridad informática.
-- 📊 Análisis de datos y sistemas inteligentes de predicción.
-- ⚙️ Automatización y optimización de procesos.
-
-Mi objetivo es seguir desarrollando proyectos que resuelvan problemas reales y fortalecer mis habilidades como ingeniero de software.
+**Repository:** [Jona404p/VOUCH](https://github.com/Jona404p/VOUCH)
 
 ---
 
-## 🧑‍🎓 Formación académica
+### ParlAI
+**AI-Powered Football Prediction System**
 
-**Ingeniería en Sistemas Computacionales**
+An experimental application focused on football match analysis and prediction using locally deployed language models and structured sports information.
+
+**Development areas:**
+- Match outcome analysis (1X2).
+- Goal-related market analysis.
+- Local LLM integration through Ollama.
+- Sports data processing.
+- Prediction interface and application architecture.
+
+**Technologies:** Python, Docker, Ollama.
+
+**Repository:** [Add repository URL]
+
+---
+
+### BTC Intelligence AI
+**Cryptocurrency Market Analysis**
+
+A local AI-assisted research and analysis system focused on Bitcoin market data, technical analysis, and quantitative trading concepts.
+
+**Development areas:**
+- Technical indicators and price action.
+- Market data integration.
+- Retrieval-Augmented Generation using specialized knowledge sources.
+- Trading risk analysis.
+- Market information processing.
+
+**Technologies:** Python, Ollama, CCXT, Binance API.
+
+**Repository:** [Add repository URL]
+
+---
+
+### MyEnv
+**Linux Environment & Profile Manager**
+
+A system management project developed in Rust, designed to organize Linux environments through configurable execution profiles.
+
+**Development areas:**
+- Profile-based environment configuration.
+- Personal, Development, Gaming, Standard, and Secure profiles.
+- TOML-based configuration.
+- System diagnostics.
+- Linux service integration.
+
+**Technologies:** Rust, Linux, TOML, systemd.
+
+**Repository:** [Add repository URL]
+
+---
+
+### TayOS
+**Custom Debian-Based Linux Distribution**
+
+An experimental Linux distribution built around Debian Live-Build, with a customized desktop environment and installation workflow.
+
+**Development areas:**
+- Custom ISO generation.
+- Boot configuration.
+- Desktop environment customization.
+- Calamares installer integration.
+- Package and system configuration.
+
+**Technologies:** Debian, Live-Build, Openbox, LightDM, Calamares.
+
+**Repository:** [Jona404p/TayOs](https://github.com/Jona404p/TayOs)
+
+---
+
+### TayShop
+**E-commerce Application**
+
+A web development project organized around independent frontend and backend components.
+
+**Development areas:**
+- Frontend and backend architecture.
+- E-commerce functionality.
+- API integration.
+- Application deployment.
+
+**Repositories:**
+- [Frontend](https://github.com/tayshop-jona/tayshop-frontend)
+- [Backend](https://github.com/tayshop-jona/tayshop-backend)
+
+---
+
+## Education
+
+**B.Eng. in Computer Systems Engineering**
 
 Instituto Tecnológico de Durango  
-México.
+Durango, México
 
-- Nivel: Segundo semestre *(actualizar conforme avances)*.
-- Áreas de interés: desarrollo de software, inteligencia artificial, sistemas y ciberseguridad.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-### Sistemas operativos
-- Linux (Debian).
-- Administración de entornos Linux.
-- Terminal y Bash.
-- Docker.
-
-### Desarrollo de software
-- C++.
-- Rust.
-- JavaScript / TypeScript *(completar según dominio)*.
-- Python *(completar según dominio)*.
-- Desarrollo frontend y backend.
-
-### Inteligencia artificial
-- Ollama.
-- Modelos de lenguaje locales (LLM).
-- RAG (Retrieval-Augmented Generation).
-- Integración de modelos de IA en aplicaciones.
-- Sistemas de predicción y análisis.
-
-### Herramientas y plataformas
-- Git y GitHub.
-- Docker.
-- Visual Studio Code.
-- Supabase.
-- Vercel.
-- Blender.
+Currently pursuing undergraduate studies.
 
 ---
 
-## 💼 Proyectos destacados
+## Current Learning
 
-Estos son algunos de los proyectos en los que he trabajado.
+- Cybersecurity fundamentals.
+- Linux system administration.
+- Network security.
+- Application security.
+- Software architecture.
+- Artificial intelligence and local LLM systems.
 
-### 1. VOUCH — Document Intelligence & Writing Analytics
-
-**Categoría:** Desarrollo de software · Inteligencia artificial · Análisis documental
-
-Plataforma orientada al análisis de documentos y la evaluación del proceso de escritura.
-
-Su objetivo es ir más allá del documento final, conservando información sobre cómo se desarrolló el trabajo, permitiendo analizar su evolución, las modificaciones y la participación del usuario.
-
-**Características principales:**
-- Editor de documentos con experiencia similar a Microsoft Word.
-- Seguimiento del proceso de escritura.
-- Registro de eventos y modificaciones.
-- Análisis de documentos mediante inteligencia artificial.
-- Sistema de evidencias y trazabilidad.
-- Herramientas de evaluación para profesores.
-
-**Tecnologías:** [Completar stack tecnológico].
-
-🔗 Repositorio: [VOUCH](https://github.com/Jona404p/VOUCH)
+Practical training: [OverTheWire – Bandit](https://overthewire.org/wargames/bandit/)
 
 ---
 
-### 2. ParlAI — Football Prediction System
+## Contact
 
-**Categoría:** Inteligencia artificial · Análisis deportivo · Machine Learning
+**Jonathan Paniagua**
 
-Aplicación de análisis y predicción de partidos de fútbol, diseñada para procesar información deportiva y generar predicciones mediante modelos de inteligencia artificial.
-
-**Características principales:**
-- Predicciones de resultados 1X2.
-- Análisis de goles y mercados deportivos.
-- Integración de modelos LLM locales.
-- Procesamiento de información deportiva.
-- Interfaz para consultar predicciones y estadísticas.
-
-**Tecnologías:** Ollama, Python, Docker y modelos locales de IA.
-
-🔗 Repositorio: [Agregar enlace]
-
----
-
-### 3. BTC Intelligence AI
-
-**Categoría:** Inteligencia artificial · Finanzas cuantitativas · Análisis de mercados
-
-Proyecto de inteligencia artificial enfocado en el análisis del mercado de Bitcoin y la asistencia en decisiones de trading.
-
-**Características principales:**
-- Análisis técnico del mercado.
-- Integración de indicadores financieros.
-- Sistema RAG basado en libros y documentación especializada.
-- Análisis de tendencias y comportamiento del mercado.
-- Integración de información de mercado mediante APIs.
-- Evaluación de riesgos y escenarios.
-
-**Tecnologías:** Python, Ollama, CCXT y Binance API.
-
-🔗 Repositorio: [Agregar enlace]
-
----
-
-### 4. MyEnv — Linux Environment Manager
-
-**Categoría:** Ingeniería de software · Linux · Sistemas
-
-Proyecto desarrollado en Rust para administrar diferentes perfiles y entornos de trabajo en Linux.
-
-**Características principales:**
-- Perfiles Personal, Development, Gaming, Standard y Secure.
-- Administración de contextos de ejecución.
-- Diagnóstico del sistema.
-- Gestión de configuraciones mediante TOML.
-- Integración con servicios de Linux.
-
-**Tecnologías:** Rust, Linux, TOML y systemd.
-
-🔗 Repositorio: [Agregar enlace]
-
----
-
-### 5. TayOS — Custom Linux Distribution
-
-**Categoría:** Sistemas operativos · Linux · Personalización
-
-Proyecto enfocado en la construcción de una distribución Linux personalizada.
-
-**Características principales:**
-- Construcción de imágenes ISO.
-- Configuración de entornos de escritorio.
-- Integración de Calamares.
-- Personalización del sistema de arranque.
-- Configuración de herramientas y paquetes.
-
-**Tecnologías:** Debian, Linux Live-Build, Calamares, Openbox y LightDM.
-
-🔗 Repositorio: [TayOS](https://github.com/Jona404p/TayOs)
-
----
-
-### 6. TayShop — E-commerce Platform
-
-**Categoría:** Desarrollo web · Comercio electrónico
-
-Proyecto de desarrollo de una plataforma de comercio electrónico, con componentes frontend y backend independientes.
-
-**Características principales:**
-- Arquitectura frontend/backend.
-- Desarrollo de funcionalidades de comercio electrónico.
-- Integración de servicios y APIs.
-- Despliegue y administración del proyecto.
-
-**Tecnologías:** [Completar stack tecnológico].
-
-🔗 Repositorio frontend: [TayShop Frontend](https://github.com/tayshop-jona/tayshop-frontend)
-
-🔗 Repositorio backend: [TayShop Backend](https://github.com/tayshop-jona/tayshop-backend)
-
----
-
-## 🔐 Actualmente aprendiendo
-
-- Fundamentos de ciberseguridad.
-- Linux y administración de sistemas.
-- Seguridad de aplicaciones.
-- Redes y protocolos.
-- Inteligencia artificial aplicada.
-- Desarrollo de software de bajo nivel.
-
-**Práctica actual:** OverTheWire — Bandit.
-
----
-
-## 📈 Filosofía de desarrollo
-
-> No me interesa únicamente escribir código. Me interesa comprender los sistemas, diseñar soluciones y construir herramientas que tengan un propósito real.
-
-Mis proyectos representan mi proceso de aprendizaje, experimentación y crecimiento como desarrollador.
-
----
-
-## 📬 Contacto
-
-- **GitHub:** [@Jona404p](https://github.com/Jona404p)
-- **LinkedIn:** [Agregar perfil]
-- **Correo profesional:** [Agregar correo]
-- **Portafolio:** [Agregar sitio web]
+- GitHub: [@Jona404p](https://github.com/Jona404p)
+- LinkedIn: [Add LinkedIn profile]
+- Email: your-email@example.com
 
 ---
 
 <p align="center">
-  <i>Construyendo, aprendiendo y mejorando un proyecto a la vez.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jona404p&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <sub>Software Engineering · Artificial Intelligence · Linux Systems</sub>
 </p>
