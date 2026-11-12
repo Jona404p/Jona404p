@@ -108,7 +108,7 @@ A web platform that analyzes both the final content of a document and the proces
 
 `JavaScript` `React` `Supabase` `AI Integration`
 
-[🔗 Live demo: docvouch.com](https://docvouch.com/) · [📂 Repository](https://github.com/Jona404p/VOUCHI_INFO)
+[🔗 Live demo: docvouch.com](https://docvouch.com/) · [📂 Repository](https://github.com/Jona404p/DOCVOUCH)
 
 ---
 
